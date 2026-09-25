@@ -7,6 +7,6 @@
 
 ## 23/09/2026 - Python Task
 
-## 24/09/2026 - Testing Metrics Task(AJIO)
+## 24/09/2026 - Testing Metrics Task(meesho)
 
 ## 25/09/2026 - python Codes
